@@ -61,7 +61,7 @@ color: #ffffff;
 
 .more-options {
 cursor: pointer;
-color: #1c1e21;
+color: #f9fafc;
 }
 
 /* Mídia / Foto */
@@ -133,7 +133,7 @@ align-items: center;
 gap: 5px;
 font-size: 13px;
 font-weight: 600;
-color: #1c1e21;
+color: #f4f6f8;
 cursor: pointer;
 background: none;
 border: none;
